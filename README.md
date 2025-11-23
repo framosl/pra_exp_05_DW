@@ -1,4 +1,3 @@
-````markdown
 # Proyecto Backend: Unidad 4 - Seguridad y Despliegue
 
 Este proyecto es una API RESTful desarrollada con **Node.js** y **Express**, conectada a una base de datos **MongoDB**. Implementa prácticas de seguridad modernas como autenticación mediante **JWT** y Login Social con **Google (OAuth 2.0)**.
