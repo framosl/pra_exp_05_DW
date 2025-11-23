@@ -87,7 +87,7 @@ Para acceder a estas rutas, debes enviar el token obtenido en el login dentro de
 ## 👨‍💻 Autor
 
 **Félix Alexander Ramos Liriano**
-Estudiante de la Universidad Estatal de Milagro (UNEMI)
-Asignatura: Desarrollo Web / Backend
 
-```
+Universidad Estatal de Milagro (UNEMI)
+
+Asignatura: Desarrollo Web / Backend
